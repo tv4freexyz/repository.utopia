@@ -1,3 +1,3 @@
-# repository.aftermath
+# Aftermath Repository
 
-The official home repository for Aftermath Wizard.
+The official home of the Aftermath Wizard.
