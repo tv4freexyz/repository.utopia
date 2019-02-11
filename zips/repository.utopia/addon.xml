@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.utopia" name="[B][COLOR dodgerblue]Utopia[/COLOR][/B] Repository" version="1.0" provider-name="TV4FREE.xyz">
+	<extension point="xbmc.addon.repository" name="[B][COLOR dodgerblue]Utopia[/COLOR][/B] Repository">
+		<dir>
+            <info compressed="false">https://raw.githubusercontent.com/tv4freexyz/repository.utopia/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/tv4freexyz/repository.utopia/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/tv4freexyz/repository.utopia/master/zips/</datadir>
+        </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>[B][COLOR dodgerblue]Utopia[/COLOR][/B] Repository</summary>
+		<description>The official home of the [B][COLOR dodgerblue]Utopia[/COLOR][/B] Wizard.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
