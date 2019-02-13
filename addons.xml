@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.program.utopiawiz" name="[B][COLOR dodgerblue]Utopia[/COLOR][/B] Wizard" version="0.4.5" provider-name="TV4FREE.xyz">
+<addon id="plugin.program.utopiawiz" name="[B][COLOR dodgerblue]Utopia[/COLOR][/B] Wizard" version="0.4.6" provider-name="TV4FREE.xyz">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
